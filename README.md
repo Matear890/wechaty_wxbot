@@ -4,7 +4,7 @@
 
 
 
-[Wechaty|NodeJS基于iPad协议手撸一个简单的微信机器人助手-掘金](https://juejin.im/post/5e5b2aeff265da5710438a1e)
+[Wechaty|NodeJS基于iPad协议手撸一个简单的微信机器人助手-掘金](https://juejin.im/post/5eb7a4415188256d42661cfe)
 
 
 
